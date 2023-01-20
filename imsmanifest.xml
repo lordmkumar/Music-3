@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">MS_Demo</langstring>
+          <langstring xml:lang="x-none">MusicTheory</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="MS_Demo_ORG">
-    <organization identifier="MS_Demo_ORG">
-      <title>MS_Demo</title>
+  <organizations default="MusicTheory_ORG">
+    <organization identifier="MusicTheory_ORG">
+      <title>MusicTheory</title>
       <item identifier="MS_Demo_SCO" isvisible="true" identifierref="__5kHtnV8eNfM_RES">
-        <title>MS_Demo</title>
+        <title>MusicTheory</title>
         <adlcp:masteryscore>100</adlcp:masteryscore>
       </item>
     </organization>
